@@ -105,7 +105,7 @@ func load() {
 }
 
 func main() {
-	load()	
+	load()
 
 	go saveEveryNowAndAgain()
 
